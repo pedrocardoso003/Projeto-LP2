@@ -1,0 +1,8 @@
+6 6
+0
+4
+1 : 20 : 0 : Freddy M. : 0 : 0
+2 : 20 : 0 : Jackie Chan : 0 : 4
+3 : 10 : 0 : Paciente Zero : 4 : 4
+4 : 10 : 0 : Dr.Tongue : 5 : 4
+0
